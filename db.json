@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "text": "we",
+      "rating": 3,
+      "id": 2
+    },
+    {
+      "text": "we",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "text": "we",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "text": "3f",
+      "rating": 2,
+      "id": 5
+    },
+    {
+      "text": "et",
+      "rating": 2,
+      "id": 6
+    },
+    {
+      "text": "et",
+      "rating": 2,
+      "id": 7
+    },
+    {
+      "text": "et",
+      "rating": 2,
+      "id": 8
+    },
+    {
+      "text": "et",
+      "rating": 7,
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
