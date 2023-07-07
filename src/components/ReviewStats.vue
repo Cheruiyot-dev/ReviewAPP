@@ -1,5 +1,5 @@
 <template>
-    <div class="feedback-stats">
+    <div class="feedback-stats border border-red-500">
        
         <h4> {{ reviewsCount ? reviewsCount : "No" }}
              Reviews</h4>

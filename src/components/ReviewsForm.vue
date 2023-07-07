@@ -3,7 +3,7 @@
         <form @submit.prevent="handleSubmit">
             <h2>How would you rate your service with us?</h2>
             <!-- Rating Component-->
-            <RatingSelect :rating="rating" @setRating = "setRating"/>
+            <RatingSelect :rating="rating" @setRating="setRating"/>
             <div class="input-group">
                 <input type="text" placeholder="Write a review" v-model="text">
                 <button type="submit" class="btn btn-primary" :disabled="btnDisabled">Send </button>

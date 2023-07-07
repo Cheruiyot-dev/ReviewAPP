@@ -26,9 +26,6 @@ const props = defineProps({
 
 const rating = props.items.rating;
 const text = props.items.text;
-
-
-
 </script>
 
 <style  scoped>

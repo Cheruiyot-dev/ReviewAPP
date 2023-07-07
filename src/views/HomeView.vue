@@ -8,7 +8,7 @@ import ReviewsForm from '../components/ReviewsForm.vue';
 
 <template>
   <div class="home">
-    <div class="container">
+    <div class="container border border-red-500">
       <!-- Reviews Form -->
       <ReviewsForm/>
       <!-- Reviews Stats -->
